@@ -22,7 +22,7 @@ title: 100 Days of Swift
 email: charlie@charliewallin.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm taking on the 100 Days of Swift to learn the programming environment. It is required that I blog every day about what I learned. I thought I would try out Jekyll and GitHub Pages for my blog.
-baseurl: "swift-100" # the subpath of your site, e.g. /blog
+baseurl: "/swift-100" # the subpath of your site, e.g. /blog
 url: "https://charliekwallin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
