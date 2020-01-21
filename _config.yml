@@ -28,7 +28,7 @@ twitter_username: charliekwallin
 github_username:  charliekwallin
 
 # Build settings
-theme: jekyll-theme-dinky
+remote-theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
