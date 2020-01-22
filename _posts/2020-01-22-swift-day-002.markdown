@@ -4,11 +4,26 @@ title:  "Day 2: Complex Data Types"
 date:   2020-01-21 12:53:48 -0500
 categories: swiftui
 ---
-Egads! This got difficult quickly. Here is a list of the complex types covered today. 
+Egads! This got difficult quickly. Here is a list of the complex types covered today.
 
 # Complex types
 
-* Arrays
+The definitions are from 100 Days of SwiftUI
+
+## Arrays
+
+Arrays are collections of values that are stored as a single value.
+
+```swift
+let mandolin = "Peggy"
+let whistle = "Hug"
+let banjo = "Tim"
+let fiddle = "Philip"
+let concertina = "Charlie"
+
+let session = [mandolin, whistle, banjo, fiddle, concertina]
+```
+
 * Sets
 * Tuples
 * Dictionaries
