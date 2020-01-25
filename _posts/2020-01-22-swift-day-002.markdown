@@ -8,6 +8,12 @@ categories: swiftui
 
 Egads! This got difficult quickly. Here is a list of the complex types covered today.
 
+* Arrays
+* Sets
+* Tuples
+* Dictionaries
+* Enums
+  
 The definitions are from 100 Days of SwiftUI
 
 ## Arrays
@@ -24,11 +30,33 @@ let concertina = "Charlie"
 let session = [mandolin, whistle, banjo, fiddle, concertina]
 ```
 
-I have more to add but I am out of time!
+## Sets
 
-* Sets
-* Tuples
-* Dictionaries
-* Enums
+Sets are collections of values just like arrays, except they have two differences:
+
+1. Items aren’t stored in any order; they are stored in what is effectively a random order.
+2. No item can appear twice in a set; all items must be unique.
+
+```swift
+    let instruments = Set(['Fiddle', 'Concertina', 'Whistle])
+```
+
+## Tuples
+
+Tuples allow you to store several values together in a single value. That might sound like arrays, but tuples are different:
+
+1. You can’t add or remove items from a tuple; they are fixed in size.
+2. You can’t change the type of items in a tuple; they always have the same types they were created with.
+3. You can access items in a tuple using numerical positions or by naming them, but Swift won’t let you read numbers or names that don’t exist.
+
+```swift
+let name = (first: 'Caitlin', last: 'Nic Gabhann')
+```
+
+
+
+
 
 The quiz was much more difficult. I need to review Dictionaries as I tanked the quiz.
+
+I am going to move on to conditionals and operators. These topics were a little advanced and  I need to spend some time working on programming with them. 
