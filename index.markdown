@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-Some dummy text to test.
