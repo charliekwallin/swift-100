@@ -27,7 +27,7 @@ let banjo = "Tim"
 let fiddle = "Philip"
 let concertina = "Charlie"
 
-let session = [mandolin, whistle, banjo, fiddle, concertina]
+let sessionInstruments = [mandolin, whistle, banjo, fiddle, concertina]
 ```
 
 ## Sets
@@ -36,9 +36,10 @@ Sets are collections of values just like arrays, except they have two difference
 
 1. Items aren’t stored in any order; they are stored in what is effectively a random order.
 2. No item can appear twice in a set; all items must be unique.
+3. String values must use double-quotes.
 
 ```swift
-    let instruments = Set(['Fiddle', 'Concertina', 'Whistle])
+    let instruments = Set(["Fiddle", "Concertina", "Whistle"])
 ```
 
 ## Tuples
@@ -53,10 +54,35 @@ Tuples allow you to store several values together in a single value. That might 
 let name = (first: 'Caitlin', last: 'Nic Gabhann')
 ```
 
+## Dictionaries
 
+Dictionaries are collections of values just like arrays, but rather than storing things with an integer position you can access them using anything you want.
 
+```swift
+let costOfInstruments = [
+    "concertina": 5_500,
+    "whistle": 2_000
+]
+```
 
+## Enums
+
+Enumeration (Enum) defines a common type for a group of related values and enables you to work with those values in a type-safe way within your code. [Enums in Swift with Real Life Examples](https://medium.com/@agoiabeladeyemi/enums-in-swift-with-real-life-examples-9fdcda775e99)
+
+This example is too small to really do anything. It is here just for a quick reference.
+
+```swift
+enum Compass {
+    case north
+    case east
+    case south
+    case west
+}
+
+var direction = Compass.north
+print(direction)
+```
 
 The quiz was much more difficult. I need to review Dictionaries as I tanked the quiz.
 
-I am going to move on to conditionals and operators. These topics were a little advanced and  I need to spend some time working on programming with them. 
+I am going to move on to conditionals and operators. These topics were a little advanced and  I need to spend some time working on programming with them.
