@@ -34,15 +34,5 @@ enum Compass {
     case west
 }
 
-var direction = Compass.north
+var direction = Compass.south
 print(direction)
-
-
-
-
-
-
-
-
-
-
