@@ -6,7 +6,7 @@ This blog is to hlep me learn the Swift programming language. I am scheduled to 
 
 The site created with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://charliekwallin.github.io/swift-100/). I still have a lot to learn about Jekyll too! Good fun.
 
-I'm keep the exercise files I use while learning new Swift code in the repo for this site.
+I'll keep the exercise files I use while learning in the repo for this site.
 
 
 
