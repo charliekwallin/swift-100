@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Day 1: First steps in Swift"
+date:   2020-01-21 12:53:48 -0500
+categories: swiftui
+---
+
+# Introduction
+
+Day 1 of SwiftUI is pretty quick since I have already learned about Swift's main data types. At this point it is all easy. It was nice to have the quizzes to check if I really was learning. Here are a few things I learned.
+
+## Multi-line strings
+
+These must start with three quotes `"""` and end with three quotes on a separate line. 
+
+```swift
+var text = """
+    This is some text
+    over multiple lines
+    """
+```
+
+If you don't want the newline character inserted, then add it yourself 
+
+```swift
+var text = """
+    This is some text \
+    over multiple lines
+    """
+```
+
+## Assigning values to variables
+
+Unlike PHP, Swift will perform a data check. For instance you can't assign an integer to a boolean.
+
+Here I am explicitly declaring the data type
+
+```swift
+let hungry: Bool = true
+```
+
+The following would be false because Bool does not recognize zero
+
+```swift
+let hungry: Bool = 0
+```
+
+## Enough
+
+I'm going to call it an early day. I already spent too much time goofing around with Jekyll and GitHub pages.

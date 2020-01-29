@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am an instructor in the Software and Web Program at [A-B Tech CC](https://www.abtech.edu/). I am scheduled to teach CSC 118: Introduction to Swift Programming in the fall of 2020. As part of my preparation I'm taking on [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui). In addition, I will be completing Apple's _Intro to App Development_.

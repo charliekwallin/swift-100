@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Day 2: Complex Data Types"
+date:   2020-01-21 12:53:48 -0500
+categories: swiftui
+---
+# Complex types
+
+Egads! This got difficult quickly. Here is a list of the complex types covered today.
+
+* Arrays
+* Sets
+* Tuples
+* Dictionaries
+* Enums
+  
+The definitions are from 100 Days of SwiftUI
+
+## Arrays
+
+Arrays are collections of values that are stored as a single value.
+
+```swift
+let mandolin = "Peggy"
+let whistle = "Hug"
+let banjo = "Tim"
+let fiddle = "Philip"
+let concertina = "Charlie"
+
+let sessionInstruments = [mandolin, whistle, banjo, fiddle, concertina]
+```
+
+## Sets
+
+Sets are collections of values just like arrays, except they have two differences:
+
+1. Items aren’t stored in any order; they are stored in what is effectively a random order.
+2. No item can appear twice in a set; all items must be unique.
+3. String values must use double-quotes.
+
+```swift
+    let instruments = Set(["Fiddle", "Concertina", "Whistle"])
+```
+
+## Tuples
+
+Tuples allow you to store several values together in a single value. That might sound like arrays, but tuples are different:
+
+1. You can’t add or remove items from a tuple; they are fixed in size.
+2. You can’t change the type of items in a tuple; they always have the same types they were created with.
+3. You can access items in a tuple using numerical positions or by naming them, but Swift won’t let you read numbers or names that don’t exist.
+
+```swift
+let name = (first: 'Caitlin', last: 'Nic Gabhann')
+```
+
+## Dictionaries
+
+Dictionaries are collections of values just like arrays, but rather than storing things with an integer position you can access them using anything you want.
+
+```swift
+let costOfInstruments = [
+    "concertina": 5_500,
+    "whistle": 2_000
+]
+```
+
+## Enums
+
+Enumeration (Enum) defines a common type for a group of related values and enables you to work with those values in a type-safe way within your code. [Enums in Swift with Real Life Examples](https://medium.com/@agoiabeladeyemi/enums-in-swift-with-real-life-examples-9fdcda775e99)
+
+This example is too small to really do anything. It is here just for a quick reference.
+
+```swift
+enum Compass {
+    case north
+    case east
+    case south
+    case west
+}
+
+var direction = Compass.north
+print(direction)
+```
+
+The quiz was much more difficult. I need to review Dictionaries as I tanked the quiz.
+
+I am going to move on to conditionals and operators. These topics were a little advanced and  I need to spend some time working on programming with them.
