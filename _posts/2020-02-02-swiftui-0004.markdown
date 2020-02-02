@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 4: Getting Loopy"
+date:   2020-02-02 12:53:48 -0500
+categories: swiftui
+---
+
+Starting off with loops today. I'm just going to have to get used to the Swift syntax (I actually prefer it to PHP).
+
+## FOR loop example
+
+```swift
+let count =  1...5
+for number in count {
+    print ("Number is \(number)")
+}
+```
