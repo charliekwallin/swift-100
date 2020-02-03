@@ -15,3 +15,92 @@ for number in count {
     print ("Number is \(number)")
 }
 ```
+
+## While
+
+```swift
+var number = 1
+
+while (number <= 20) {
+    number += 1
+}
+
+print ("Ready or not, here I come.")
+```
+
+## Repeat
+
+I tend not to use this style of loop, but what the hell, here is Paul's example
+
+```swift
+repeat {
+    print("This is false")
+} while false
+```
+
+## Exiting loops
+
+You can exit a loop using the `break` keyword inside the loop construct.
+
+## Existing nested loops
+
+Thanks to Paul, I had a little trouble with this one.
+
+First I'll try my hand at making a nested loop. If you want to exit the entire nested loop, you then need to create a lable for the outter loop and exit it. Let's give it a try.
+
+Here is the example without the `label`
+
+```swift
+for i in 1...5 {
+    for j in 1...5 {
+        let product = i * j
+        print ("\(i) * \(j) is \(product)")
+    }
+}
+```
+
+Now we add the labl
+
+```swift
+for i in 1...5 {
+    for j in 1...5 {
+        let product = i * j
+        print ("\(i) * \(j) is \(product)")
+    }
+}
+```
+
+## Continue statement
+
+If a condition is met then we can continue with the loop. In this case we will ingore all odd numbers.
+
+```swift
+for i in 1...10 {
+    if i % 2 == 1 {
+        continue
+    }
+
+    print(i)
+}
+```
+
+## For loop with an array
+
+Simple array to try out displaying the days of the week
+
+```swift
+let daysInWeek = [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+    ]
+
+for day in daysInWeek {
+    print("\(day)")
+}
+```
+
