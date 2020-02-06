@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Day 5: Additional Resources and a few Thoughts"
+date:   2020-02-06 05:33:48 -0500
+categories: swiftui
+---
+
+## Swift over Coffee Podcast
+
+Yesterday I listened to my first Swift podcast. The title was _S1E20: Transcendental Swift_. It was just OK but I'm ready to listen to many more. One of the takeaways was improvements for Swift. The idea that grabbed my attention was "Swift Lite" which would be a version of Swift that you could easily use on an iPad. 
+
+## Other Resources
+
+The 100 Days of SwiftUI has been a great kickstart but I feel the need to wonder back to the _Intro to App Development_ book by Apple. The topic is called **First App** and I'm pretty excited about it. I'll be bouncing back and forth between these two resources for this blog.
+
+## TRAP Drumming
+
+Yesterday I went to a therapeutic drumming session with my son. The instructor was great and my son was learning basic rythmns/counting/rests and then striking the drums that were color-coded. It was an exercise he truly enjoyed (and I did too!). As someone learning a new tool, I'm always trying to come up with ideas to help me learn and help others learn. I'm going to try and flesh out a little app idea for therapeutic drumming. Next up, I'll spend some time researching similar ideas.
+
+
+
+
+
