@@ -7,11 +7,11 @@ categories: swiftui
 
 ## Swift over Coffee Podcast
 
-I dug back into two [Swift Over Coffee Podcasts](https://podcasts.apple.com/us/podcast/swift-over-coffee/id1435076502) yesterday. The one I really liked (even though a lot of it was over my head) was Season 2 Episode 1. The new co-host Erica kicks it. She really knows her stuff. She and Paul have a good report so it was easy to listen to. I'm starting to like these
+I dug back into two [Swift Over Coffee Podcasts](https://podcasts.apple.com/us/podcast/swift-over-coffee/id1435076502) yesterday. The one I really liked (even though a lot of it was over my head) was Season 2 Episode 1. The new co-host Erica kicks it. She really knows her stuff. She and Paul have a good report so it was easy to listen to. I'm starting to like these. As long as the weather remains crappy and I'm taking the bus to work, Swift Over Coffee will be on the regular rotation.
 
 ## Intro to App Development: Chapter 5
 
-I got bak into the _Intro to App Development_ book and hit chpater 5. I had a little trouble with the View Image at first because the book is designed for Xcode 10 but after a little reseach things starte to make sense. 
+I got bak into the _Intro to App Development_ book and hit chpater 5. I had a little trouble with the View Image at first because the book is designed for Xcode 10 but after a little reseach things started to make sense. 
 
 ### Adding Images
 
