@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Day 6: More Podcasts and Intro to App Dev Chapter 5"
+date:   2020-02-08 04:24:48 -0500
+categories: swiftui
+---
+
+## Swift over Coffee Podcast
+
+I dug back into two [Swift Over Coffee Podcasts](https://podcasts.apple.com/us/podcast/swift-over-coffee/id1435076502) yesterday. The one I really liked (even though a lot of it was over my head) was Season 2 Episode 1. The new co-host Erica kicks it. She really knows her stuff. She and Paul have a good report so it was easy to listen to. I'm starting to like these
+
+## Intro to App Development: Chapter 5
+
+I got bak into the _Intro to App Development_ book and hit chpater 5. I had a little trouble with the View Image at first because the book is designed for Xcode 10 but after a little reseach things starte to make sense. 
+
+### Adding Images
+
+Learned how to add an image to the **assets** and then insert the Image View with the Object Controller. Man, there is a lot to learn. 
+
+A small but really important part is finding the bit + sign to add all sorts of objects. 
+
+Tomorrow I'm going to complete chpater 6 in the _Intro to App Development_ book. 
+
+
+
+
+
