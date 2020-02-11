@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 7: Intro to App Dev Chapter 6 - Functions"
-date:   2020-02-08 05:21:48 -0500
+date:   2020-02-11 05:21:48 -0500
 categories: swiftui
 ---
 
