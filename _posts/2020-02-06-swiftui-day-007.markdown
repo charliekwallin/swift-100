@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Day 7: Intro to App Dev Chapter 6 - Functions"
+date:   2020-02-08 05:21:48 -0500
+categories: swiftui
+---
+
+Chapter 6 on functions from the _Intro to App Dev_ book was today's topic. Apple used "Row row row" your boat as a way to demonstrate not repeating yourself. It was a good enough introduction and I liked that they showed you how to call a function from another function.
+
+## Bob and Doug's 12 Days
+
+I thought it might be fun to do the do something similar with "Bob and Doug's 12 Days of Christmas". 
+
+At first glance this offers some nice features for a little programming puzzle. The solution would include
+
+* functions and recursion
+* arrays
+* loops
+
+I'm going to give it a whirl and see if it would be fun to introduce to the Aheville Coder's League on their puzzle channel on Slack. I think students in my PHP class might like it too.  
+
+I need to finish up the 100-Day section on functions. I've been through it dives a lot deeper into functions. So far bouncing back and forth between the two sources, Apple's _Intro_ and _100 Days_ has been working well.
+
