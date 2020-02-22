@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Day 8: Intro to App Dev Chapter 7 Boogie Bot; Chapter 8 Constants and Variables and Comments about CSC 118"
+date:   2020-02-22 04:44:48 -0500
+categories: swiftui
+---
+
+Had to take a little break due to some unfortunate outside influences. I actually kinda missed this stuff so I am glad to be back. 
+
+## CSC 118 Notes
+
+The Apple book _Intro to App Development_ has been... well... introductory so I've been concerned about how much students will learn in CSC 118 so I checked the [NC Common Course Library](https://webadvisor.nccommunitycolleges.edu/WebAdvisor/WebAdvisor?TOKENIDX=268947709&SS=1&APP=ST&CONSTITUENCY=WBFC) and it shows there are no pre-reqs. Ok. Fine. But here is the course description
+
+> This course introduces the development of iOS applications and Apple applications using Swift programming language. Emphasis is placed on syntax, object-oriented principles, memory management, and functional concepts of Swift programming. Upon completion, students should be able to develop fully functional iOS and Apple applications using Swift programming language.
+
+
+"Object-oriented principles, memory management" are pretty advanced concepts for a course with no pre-reqs. 
+
+There is a big difference between the two Apple books on Swift development and I keep wondering if the _Intro_ book is too easy. With that in mind, I will keep forging ahead with it and see where I end up.
+
+
+## The Boogie Bot
+
+This was a fun chapter and I think students will like playing around with it. Building their own dance routinces will be nice. I'm trying to think of ways to push the exercise a little further.
+
+## Contstants and Variables
+
+Nothing new here other than I like the way Swift handles constants and variables compared to the way PHP does. 
