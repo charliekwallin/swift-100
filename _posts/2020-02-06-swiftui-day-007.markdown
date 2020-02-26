@@ -4,6 +4,58 @@ title:  "Day 7: Intro to App Dev Chapter 6 - Functions"
 date:   2020-02-11 05:21:48 -0500
 categories: swiftui
 ---
+*updated 2/27/2020*
+
+## Using functions from two resources
+
+The _Intro_ book does a nice job introducing functions if you don't have any other programming experience. I needed to know more and wanted to practice on some small examples so I went back to _100 Days_. 
+
+As I go through this, I think I'll be bouncing back and forth a lot. The two work well together (at least for me).
+
+## Function syntax
+
+### Passing a parameter
+
+```swift
+func favoriteFood(food: String) {
+    print("My favorite food is: \(food)")
+}
+
+favoriteFood(food: "Pizza")
+```
+
+### Returning a value
+
+I like that the return value is declared in the function
+
+```swift
+func convertToCelcius(celcius: Int) -> Int {
+    let fahrenheit = (celcius * 9/5) + 32
+    return fahrenheit
+}
+
+let fahrenheit: Int = 0
+var celcius = convertToCelcius(celcius: fahrenheit)
+print ("\(fahrenheit) degrees Celcius is \(celcius)  Fahrenheit.")
+```
+
+### Parameter labels
+
+I'm leaving this one alone for now. I may come back to it later. I'm sure it is useful, but I'm having a hard time seeing its advantage. 
+
+### More than one parameter
+
+This function only displays a string
+
+```swift
+func twoToppings(firstTopping: String, secondTopping: String) {
+    print("Today's special is pizza with \(firstTopping) and \(secondTopping)")
+}
+
+
+twoToppings(firstTopping: "Ham", secondTopping: "Canadian bacon")
+```
+
 
 Chapter 6 on functions from the _Intro to App Dev_ book was today's topic. Apple used "Row row row" your boat as a way to demonstrate not repeating yourself. It was a good enough introduction and I liked that they showed you how to call a function from another function.
 
@@ -19,5 +71,4 @@ At first glance this offers some nice features for a little programming puzzle. 
 
 I'm going to give it a whirl and see if it would be fun to introduce to the Aheville Coder's League on their puzzle channel on Slack. I think students in my PHP class might like it too.  
 
-I need to finish up the 100-Day section on functions. I've been through it dives a lot deeper into functions. So far bouncing back and forth between the two sources, Apple's _Intro_ and _100 Days_ has been working well.
 
