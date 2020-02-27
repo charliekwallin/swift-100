@@ -61,7 +61,35 @@ Chapter 6 on functions from the _Intro to App Dev_ book was today's topic. Apple
 
 ## Bob and Doug's 12 Days
 
-I thought it might be fun to do the do something similar with "Bob and Doug's 12 Days of Christmas". 
+I thought it might be fun to do the do something similar with [Bob and Doug's 12 Days of Christmas](https://www.google.com/search?client=firefox-b-1-d&q=bob+and+doug%27s+12+days+of+christmas). 
+
+Here are the words just in case I really want to do this
+
+> On the first day of Christmas,
+my true love gave to me: a beer.
+
+> On the second day of Christmas,
+my true love gave to me: two turtlenecks,
+
+> On the third day of Christmas,
+my true love gave to me: three French toast,
+
+> Fourth day of Christmas,
+my true love gave to me: four pounds of backbacon,
+
+> Fifth day of Christmas, 
+my true love gave to me: five golden touques!
+
+> on the sixth. Of Christmas, 
+my true love gave to me: six packs of two-four
+
+> On the seventh day of Christmas,
+my true love gave to me: seven packs of smokes,
+
+> On the eigth day of Christmas, 
+my true love gave to me: Eight comic books,
+
+> So, like, that's our song, Merry Christmas...
 
 At first glance this offers some nice features for a little programming puzzle. The solution would include
 

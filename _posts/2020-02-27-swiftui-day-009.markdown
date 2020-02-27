@@ -53,3 +53,49 @@ let sentence = makeFavorite(categoryOfThing: categories, favorite: itemInCategor
 let greeting = "Hey, Paul \(sentence)"
 print(greeting)
 ```
+
+### Side Effects
+
+When a function does some kind of work that’s unrelated to a return value, like printing to the console, or making BoogieBot dance, the work is called a side effect. When you name a function, it’s good to somehow include the side effect in the name, like `leftArmUp().
+
+### Naming with to:
+
+I have to give this one some time. Still not quite sure why I would do this. It sets a constant inside the function.
+
+```swift
+func printHello(to: String) {
+    print ("Hello " + to)
+}
+printHello(to: "Maya")
+```
+
+### Parameter Names and Argument Labels
+
+This solves the previous problem by adding a parameter to the name
+
+```swift
+func printHello(to name: String) {
+    print("Hello " + name)
+}
+printHello(to: "Chris")
+printHello(to: "Johnny")
+```
+
+### The Argument Without a Name
+
+Again, I'm having difficulty with *why* I would want to do this. I feel addle-brained from programming with PHP for too long.  I'm sure there is a reason and I look forward to writing some functions that take advantage of this.
+
+> To declare a parameter without an argument label, you use the underscore _ where the argument label would go.
+
+```swift
+func printHelloTo(_ name: String) {
+    print("Hello " + name)
+}
+printHelloTo("Maya")
+printHelloTo("Hiro")
+```
+
+
+
+
+
