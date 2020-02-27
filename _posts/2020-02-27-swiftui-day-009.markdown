@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 9: Intro to App Dev Chapter 10 - Functions
+title:  "Day 9: Intro to App Dev Chapter 10 - Functions"
 date:   2020-02-22 06:39:48 -0500
 categories: swiftui
 ---
@@ -20,4 +20,22 @@ func makeFavorite(categoryOfThing: String, favorite: String) -> String {
 let sentence = makeFavorite(categoryOfThing: "food", favorite: "oats")
 print(sentence)
 ```
-More material coming after I walk the dog.
+
+### Passing variables instead of literals
+
+```swift
+func makeFavorite(categoryOfThing: String, favorite: String) -> String {
+    
+    return "My favorite \(categoryOfThing) is \(favorite)"
+}
+
+let categories: String = "band"
+let itemInCategory: String = "The Replacements"
+
+let sentence = makeFavorite(categoryOfThing: categories, favorite: itemInCategory)
+print(sentence)
+```
+
+### Using string interpolation
+
+Coming next.
