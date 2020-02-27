@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Day 9: Intro to App Dev Chapter 10 - Functions
+date:   2020-02-22 06:39:48 -0500
+categories: swiftui
+---
+
+## More Functions
+
+Chapter 10 in the _Intro_ book finally gets a little more interesting and delves deeper into functions. When putting together the class, I need to figure out how to keep the students interested during chapters 1 - 6. Chapter 7 with Boogie Bot was fun and I understand why it is there, but those chapters are pretty light. On the other hand, the chapter on functions _100 Days_ videos is too complete if you are just beginning. Here are some more notes on functions
+
+### Returning values
+
+```swift
+func makeFavorite(categoryOfThing: String, favorite: String) -> String {
+    
+    return "My favorite \(categoryOfThing) is \(favorite)"
+}
+
+let sentence = makeFavorite(categoryOfThing: "food", favorite: "oats")
+print(sentence)
+```
+More material coming after I walk the dog.
