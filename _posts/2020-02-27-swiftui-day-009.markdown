@@ -38,4 +38,18 @@ print(sentence)
 
 ### Using string interpolation
 
-Coming next.
+You can put in the result of a function into a string. This totally makes sense, but it seemed exciting at first.
+
+```swift
+func makeFavorite(categoryOfThing: String, favorite: String) -> String {
+    
+    return "My favorite \(categoryOfThing) is \(favorite)"
+}
+
+let categories: String = "band"
+let itemInCategory: String = "The Replacements"
+
+let sentence = makeFavorite(categoryOfThing: categories, favorite: itemInCategory)
+let greeting = "Hey, Paul \(sentence)"
+print(greeting)
+```
