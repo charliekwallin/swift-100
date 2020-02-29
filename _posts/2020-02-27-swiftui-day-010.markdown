@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Day 10: Continuing _Intro to App Dev_ Chapter 10 - Functions"
+date:   2020-02-29 06:32:48 -0500
+categories: swiftui
+---
+
+## More Functions
+
+Perhaps I'm spending too much time in this chapter but it offers a lot. I wrote out a function for students to use as a stepping stone to better code. As I learn more about arrays and loops, I will add those for practice. Here is my first, and somewhat embarrassing attempt to use a function to guide me through the repetition of a song.
+
+### Bob and Doug's 12 Days of Christmas - Take One
+
+```swift
+func bobAndDoug(intro: String, day: String, trueLove: String, gift: String) -> String {
+    return "\(intro)\(day)day of Christmas, \(trueLove)\(gift)"
+}
+
+let intro = "On the "
+let trueLove = "my true love gave to me, "
+
+let one = "first "
+let two = "second "
+let three = "third"
+
+let firstDayGift = "a beer."
+let secondDayGift = "two turtlenecks."
+let thirdDayGift = "three french toast."
+
+let firstVerse = bobAndDoug(intro: intro, day: one, trueLove: trueLove, gift: firstDayGift)
+let secondVerse = bobAndDoug(intro: intro, day: two, trueLove: trueLove, gift: secondDayGift)
+let thirdVerse = bobAndDoug(intro: intro, day: three, trueLove: trueLove, gift: thirdDayGift)
+
+print (firstVerse)
+print (secondVerse)
+print (thirdVerse)
+```
+
