@@ -34,4 +34,21 @@ func score(withReds reds: Int, withGreens greens: Int, withGolds golds: Int) -> 
 let finalScore = score(withReds: 5, withGreens: 3, withGolds: 3)
 ```
 
+## Parameters with no Labels
+
+I'm ripping this right out of the playground
+
+> Some functions names are descriptive enough that they don’t need a label for their argument. To write a function that can be called with an argument only, you use _ where you'd normally specify the argument label.
+
+The function below has an unnecessary argument label when you call it.
+
+```swift
+func holler(phrase: String) -> String {
+    return "⚡️\(phrase)!!⚡️"
+}
+
+holler(phrase: "Thank you, this is very nice.")
+holler(phrase: "I'm not sure that was necessary.")
+```
+
 There is still a lot more for me to learn about functions such as **variadic** functions and functions that **throw** buy I think this will be enough for now. Time to move on to conditionals in chapter 11.
