@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Day 11: Functions - Argument Labels Made Me Crazy"
+date:   2020-03-01 07:09:00 -0500
+categories: swiftui
+---
+
+I know, I'm probably spending too much time on functions this early in my learning but I really need to understand (even at a beginning level) how they work in Swift. Even after going through chapter 10 in the _Intro_ book and the accompanying playground, I wasn't fully grasping the whole argument label thing. Here is my summary: it is a way to make your functions read more like a sentence (which is cool), but it also adds a little bit of wordiness that I found unnecessary. I guess it's not that difficult after all. I'm sure with other topics such as **tuples**, I'll eventually understand why these were designed into the language.
+
+I reviewed the _100 Days_ function tutorial. It explained it as: the **argument label** is used in the function call, while the parameter is used in the function. Here is the code for that example
+
+```swift
+func sayHello(to name: String) {
+    print("Hello, \(name)!")
+}
+
+sayHello(to: "Rennie")
+```
+
+Here is the code from the playground exercise. I modified it slightly from the original example. Perhaps a better example would help me see the value, alas here it is
+
+```swift
+func score(withReds reds: Int, withGreens greens: Int, withGolds golds: Int) -> Int {
+    let pointsPerRed = 5
+    let pointsPerGreen = 10
+    let pointsPerGold = 30
+    
+    let redScore = reds * pointsPerRed
+    let greenScore = greens * pointsPerGreen
+    let goldScore = golds * pointsPerGold
+    
+    return redScore + greenScore + goldScore
+}
+let finalScore = score(withReds: 5, withGreens: 3, withGolds: 3)
+```
+
+There is still a lot more for me to learn about functions such as **variadic** functions and functions that **throw** buy I think this will be enough for now. Time to move on to conditionals in chapter 11.
