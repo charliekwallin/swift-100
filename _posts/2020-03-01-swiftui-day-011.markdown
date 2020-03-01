@@ -51,4 +51,5 @@ holler(phrase: "Thank you, this is very nice.")
 holler(phrase: "I'm not sure that was necessary.")
 ```
 
-There is still a lot more for me to learn about functions such as **variadic** functions and functions that **throw** buy I think this will be enough for now. Time to move on to conditionals in chapter 11.
+There is still a lot more to learn about functions such as **variadic** functions and functions that **throw** buy I think this will be enough for now. Time to move on to conditionals in chapter 11.
+unnecessary
