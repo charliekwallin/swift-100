@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Day 12:  Swift Over Coffee and Intro Chapter 11"
+date:   2020-03-02 09:37:00 -0500
+categories: swiftui
+---
+
+## Swift Over Coffee - S2E2
+
+### Proing the heck out of that bono
+
+Again, the content is over my head but this does not discourage me; if anything, this encourages me to learn more. Some of the topics I found interesting is the "What's new" section. It is great to hear the level of expertise that Paul and Erica have.  
+
+I learned a little about Radars and how the development community can help make Swift a better product.
+
+They discussed how quickly you can create a website due to frameworks than you can with app development. SwiftUI is suppose to help reduce the development time for apps. Of course, I'm a beginner so time will tell for me.
+
+## _Intro_ Chapter 11
+
+Coming this afternoon but I'm posting this thing now before class.
+
+
+
+
