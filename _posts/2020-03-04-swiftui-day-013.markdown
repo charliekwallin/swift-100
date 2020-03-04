@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Day 13: Intro - Chapter 11 on Conditionals  "
+date:   2020-01-01 07:00:00 -0500
+categories: swift
+---
+
+## Quick note on comparing ints and doubles
+
+The following confuses me. It returns **true**.
+
+1 == 1.0 
+
+## Using functions to returns bools
+
+### Using a conditional in your return statement
+
+This is right out of the chapter. Note the `return` statement.
+
+```swift
+func bandCanCarryGear(bandMemberCount: Int, gearWeight: Int) -> Bool {
+    let maximumTripCount = 2
+    let weightPerPerson = 50
+    let carryingCapacity = bandMemberCount * weightPerPerson * maximumTripCount
+
+    return gearWeight < carryingCapacity
+}
+
+if bandCanCarryGear(bandMemberCount: 5, gearWeight: 600) {
+   "Rock on."
+} else {
+    "Everyone quits! Looks like you've got a solo show"
+}
+```
+
+## TODO
+
+Otherwise the chapter was pretty straight forward. There is a good exercise in the **Teacher's Ed** to validate a password. I'm going to write that one soon but first I must get the boy on the bus.
