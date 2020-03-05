@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Day 14: Intro Chapter 12 Instances, Meathods, Properties  "
+date:   2020-03-05 07:00:00 -0500
+categories: swiftui
+---
+`Date()` is an example of an _initializer_.  Initializers are used to create an instance of a particular tuype.
+
+> Functions can be defined as part of a type. These functions are called instance methods, or just methods. 
+
+## Instance method
+There was a short exercise on the instance method, `hasPrefix(_:)`. I mention this because it seemed a little weird at first but I'm starting to get the hang of it. 
+
+This instance method returns a Boolean value indicating whether the string begins with the specified prefix.
+
+## Instance property
+
+You cannot pass arguments to a property.
+
+`var isEmpty: Bool { get }`
+
+```swift
+let something = "It was the best of times"
+something.isEmpty
+```
+
+## Finding documentation
+
+> Option-click a type, method, or property and it will show you useful information.
+
+## Quick help
+
+Place your cursor in the code then 
+
+View -> Inspector ->Show quick help OR
+
+&#8997; + &#8984; + 3
+
+
+
