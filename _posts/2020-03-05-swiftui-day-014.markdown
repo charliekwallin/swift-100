@@ -34,7 +34,13 @@ Place your cursor in the code then
 
 View -> Inspector ->Show quick help OR
 
-&#8997; + &#8984; + 3
+&#8997;  &#8984;  3
+
+## Developer Documentation
+
+&#8679; &#8984; 0
+
+
 
 
 
