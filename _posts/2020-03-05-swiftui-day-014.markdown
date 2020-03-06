@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Day 14: Intro Chapter 12 Instances, Meathods, Properties  "
+title:  "Day 14: Intro Chapter 12 Instances, Methods, Properties  "
 date:   2020-03-05 07:00:00 -0500
 categories: swiftui
 ---
-`Date()` is an example of an _initializer_.  Initializers are used to create an instance of a particular tuype.
+`Date()` is an example of an _initializer_.  Initializers are used to create an instance of a particular type.
 
 > Functions can be defined as part of a type. These functions are called instance methods, or just methods. 
 
@@ -39,6 +39,18 @@ View -> Inspector ->Show quick help OR
 ## Developer Documentation
 
 &#8679; &#8984; 0
+
+## Assistant Editor
+
+In the last assignment with the dueling boogie bots, the instructions in this chapter state that you should open the assistant editor. For me it opened automatically. 
+
+Explanation from [StackOverflow](https://stackoverflow.com/questions/56675698/show-assistant-editor-missing-in-xcode-11)
+
+In the playground, I toggled the boogie bots with Editor -> Layout -> Assistant on Right then run Live View or I could just run Live View.
+
+### Live View
+
+&#8997; &#8984; &#8996;
 
 
 
