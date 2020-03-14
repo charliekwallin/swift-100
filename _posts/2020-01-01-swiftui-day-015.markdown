@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Day 15:  I'm Back -- Chapter 11 Question Bot"
+date:   2020-03-14 07:00:00 -0500
+categories: swiftui
+---
+
+## Corona Virus
+
+Had to take a few days off. Even though the virus hasn't made it to WNC yet, it has proven to be a major distraction. I'm getting bombarded by emails from administration. I know they are trying to get their act together, but it seems like it it too little, too late. Anyway, we have an extra week of spring break to prepare all of our classes to go online. 
+
+## Back to Swift
+
+By taking a few days off, I quickly realized that I need to keep at this every day. Some of the commands that were at the tip of my fingers just flew away.
+
+### Question Bot
+
+The question bot exercises were a lot of fun in this chapter and it introduced Swift.
+
+I need to run -- family stuff. I'll finish this post soon. There is lots of good stuff from this chapter!
