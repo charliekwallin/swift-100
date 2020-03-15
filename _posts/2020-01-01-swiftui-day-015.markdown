@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 15:  I'm Back -- Chapter 11 Question Bot"
+title:  "Day 15:  Chapter 11 Question Bot, Methods, MVC and Fireside Swift"
 date:   2020-03-14 07:00:00 -0500
 categories: swiftui
 ---
@@ -27,7 +27,7 @@ func responseTo(question: String) -> String {
     } else if question == "Where are the cookies?" {
         return "In the feckin' cookie jar"
     } else if lowerCaseQuestion.hasPrefix("where") {
-    return "To the North! Somewhere near Minneapolis."
+        return "To the North! Somewhere near Minneapolis."
     } else if lowerCaseQuestion.hasPrefix("can") {
         return "No. Cookies are for dad."
     } else if lowerCaseQuestion.hasPrefix("should i") {
@@ -56,5 +56,12 @@ Excerpt From: Apple Education. “Intro to App Development with Swift Teacher Gu
 
 ## Re-energized
 
-After a little break from Swift, this chapter has re-energized me. This seems odd, but I think learning a programming language will help me get through the 'Extensive Distancing` me and my family are engaged in during the Corona Virus pandemic. I probably should pick up a good novel too!
+After a little break from Swift, this chapter has re-energized me. Aside from the onslaught of information from the Coronavirus, I was feeling that Swift was going to take a while to learn (it will) but it will be worth it. This seems odd, but I think learning a programming language will help me get through the 'Extensive Distancing` me and my family are engaged in during the Corona Virus pandemic. I probably should pick up a good novel too!
+
+## Fireside Swift
+
+I've been listening to [Swift over Coffee](https://podcasts.apple.com/us/podcast/swift-over-coffee/id1435076502) and Paul Hudson mentioned that he really likes [Fireside Swift podcast](https://www.firesideswift.com/). I have only listened to one episode but I think it is a better fit for me as someone early in the learning stage. I'll continue to listen to _Swift over Coffee_ but a lot of the topics are over my head at this point.  
+
+More on this as I dig into the _Fireside Swift_ podcast. 
+
 
