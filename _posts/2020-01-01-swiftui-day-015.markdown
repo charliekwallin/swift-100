@@ -15,6 +15,46 @@ By taking a few days off, I quickly realized that I need to keep at this every d
 
 ### Question Bot
 
-The question bot exercises were a lot of fun in this chapter and it introduced Swift.
+The question bot exercises were a lot of fun in this chapter and it introduced Swift. We were asked to write a function that offers some off the cuff replies if someone asks a question. Here is the function I wrote. I ran into a little problem when Swift kept throwing an error if I didn't return a value in the `else` statement. In hindsight, this made sense.
 
-I need to run -- family stuff. I'll finish this post soon. There is lots of good stuff from this chapter!
+```swift
+func responseTo(question: String) -> String {
+
+    let lowerCaseQuestion = question.lowercased()
+
+    if lowerCaseQuestion.hasPrefix("hello there") {
+        return "Why, hello there!"
+    } else if question == "Where are the cookies?" {
+        return "In the feckin' cookie jar"
+    } else if lowerCaseQuestion.hasPrefix("where") {
+    return "To the North! Somewhere near Minneapolis."
+    } else if lowerCaseQuestion.hasPrefix("can") {
+        return "No. Cookies are for dad."
+    } else if lowerCaseQuestion.hasPrefix("should i") {
+        return "Yes, you should go and leave me to my cookies"
+    } else {
+        return "Not found"
+    }
+}
+```
+
+### Start Using String as an Object
+
+What I really learned in this chapter is how easy it is to use String methods. In the function above, you can see how the `lowercased()` method is easily applied to a `String`. This is nice!
+
+### Start of MVC
+
+The Question Bot also introduces the MVC pattern. 
+
+>“Many apps use the same architecture as QuestionBot, where the app has a separate “brain” that instructs the user interface what to display. One architecture that follows this pattern is called MVC, or Model-View-Controller. Introduce the Model-View-Controller design pattern by discussing the three different classifications.
+Model: Data that the application works with.
+View: The user interface that the user sees.
+Controller: The “brain” that communicates events and changes between model and view objects.
+”
+
+Excerpt From: Apple Education. “Intro to App Development with Swift Teacher Guide.” Apple Inc. - Education, 2019. Apple Books. https://books.apple.com/us/book/intro-to-app-development-with-swift-teacher-guide/id1118577558
+
+## Re-energized
+
+After a little break from Swift, this chapter has re-energized me. This seems odd, but I think learning a programming language will help me get through the 'Extensive Distancing` me and my family are engaged in during the Corona Virus pandemic. I probably should pick up a good novel too!
+
