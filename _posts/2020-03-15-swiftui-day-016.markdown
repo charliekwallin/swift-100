@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "Day 16:  Chapter 14 - Arrays"
+date:   2020-03-16 14:30:00 -0500
+categories: swiftui
+---
+## Looping through an array
+
+```swift
+let friends = ["Name", "Name2", "Name3", "Name4", "Name5"]
+
+for friend in friends {
+    let sparklyFriend = "✨\(friend)✨"
+    print("Hey, \(sparklyFriend), please come to my party on Friday!")
+}
+print("Done, all friends have been invited.")
+```
+
+## Mutable and immutable arrays
+
+Arrays created with `let` are immutable. Arrays created with `var` are mutable.
+
+## Examples from Intro 
+
+All of these examples are from the _Intro_ book playground chapter 14
+
+### Create an empty array
+
+```swift
+var list = [String]()
+```
+
+### Adding items
+
+Here are a few ways to add elements to an array
+
+```swift
+list.append("Raspberry")
+list.insert("Elderberry", at: 1)
+list += ["Apple", "Moldy peach"]
+
+for item in list {
+    print (item)
+}
+```
+
+### Removing items
+
+``` swift
+var numbers = [0,1,2,3,4]
+let someNumber = numbers.remove(at: 2)
+let firstNumber = numbers.removeFirst()
+let lastNumber = numbers.removeLast()
+numbers.removeAll()
+```
+
+### Replacing items
+
+```swift
+var flavors = ["Chocolate", "Vanilla", "Strawberry", "Pistachio", "Rocky Road"]
+```
+
+
+
+
+

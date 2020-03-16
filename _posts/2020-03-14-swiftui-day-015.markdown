@@ -64,4 +64,13 @@ I've been listening to [Swift over Coffee](https://podcasts.apple.com/us/podcast
 
 More on this as I dig into the _Fireside Swift_ podcast. 
 
+## Assignments for students
+
+Spend some time checking out String and its methods. 
+
+### Possible coding activities
+
+* Password checker
+* Map out a ToDo list using MVC
+
 
