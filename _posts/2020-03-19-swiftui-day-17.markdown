@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 17: Shortcuts -- I Need Them! "
-date:   2020-01-01 07:00:00 -0500
+date:   2020-03-19 07:00:00 -0500
 categories: swiftui
 ---
 
