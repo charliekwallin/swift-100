@@ -60,6 +60,41 @@ numbers.removeAll()
 var flavors = ["Chocolate", "Vanilla", "Strawberry", "Pistachio", "Rocky Road"]
 ```
 
+### Passing an array of bools to a function
+
+This is my answer to one of the exercises in the _Intro_ book. 
+
+First you are given three arrays of votes. Below, I will just put in one as an example. Then you are to write a function that calculates the number of true and false values. Because of Swift's typecasting, I found this to be a good exercise and it took me longer than I expected. 
+
+Ugh. My answer looks _so_ simple now that I am finished.
+
+Here is a link to the Swift Functions Documentation. This page is what helped me solve the problem.
+
+There are more array exercises. Those will be in my next post.
+
+```swift
+let shouldMascotChangeVotes: [Bool] = [false, false, false, true, false, true, true, true, false, true, true, true, true, false, true, true, false, true, true, true, false, true, true, true, true, true, true, true, false, true, false, true, false, true, true, false, false, true, true, false, false, true, true, true, false, true, false, true, true, false, true, true, false, true, false, false, true, false, true, true, false, false, true, false, true, true, true, false, true, true, false, false, true, false, true, true, false, false, false, true, false, true, true, false, true, true, true, true, true, true, true, false, true, false, true, false, true, true, true, true, true, true, true, false, true, true, false, true, true, true, true, true, true, true, false, true, true, false, true, true, false, true, true, true, true, true, false, false, false, false, true, true, true, false, true, true, false, false, true, false, false, true, true, true, true, false, true, true, true, true, false, true, true, false, true, false, false, true, true, false, true, false, false, false, true, false, false, false, true, false, true, true, false, true, true, false, true, true, true, false, false, false, true, false, true, false, true, true, true, true, false, true, false, false, true, true, true, true, true, false]
+
+func printResults(forIssue: String, votes votingArray: [Bool]) {
+    var yesCount = 0
+    var noCount = 0
+    
+    for vote in votingArray {
+        if vote == true {
+            yesCount += 1
+        } else {
+            noCount += 1
+        }
+    }
+    
+    print("\(forIssue), \(yesCount) yes and \(noCount) no.")
+}
+
+// main program
+
+printResults(forIssue: "Should we change the mascot?", votes: shouldMascotChangeVotes)
+```
+
 
 
 
