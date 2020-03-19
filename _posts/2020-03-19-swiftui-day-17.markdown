@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 17: Shortcuts -- I Need Them! "
+date:   2020-01-01 07:00:00 -0500
+categories: swiftui
+---
+
+I will update this post as I come across shortcuts I just can't live without.
+
+## Mac Keyboard Characters
+
+<table border="1">
+
+<tr><td>one</td><td>two</td></tr>
+</table>
