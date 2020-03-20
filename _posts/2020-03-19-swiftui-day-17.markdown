@@ -9,7 +9,9 @@ I will update this post as I come across shortcuts I just can't live without.
 
 ## Mac Keyboard Characters
 
-<table border="1">
+Before digging into the shortcuts for Swift, here is a list of the Mac OS functional keys
 
-<tr><td>one</td><td>two</td></tr>
+<table border="1">
+<tr><th>Entity</th><th>Glyph</th><th>Name</th></tr>
+<tr><td>`&#63743;`</td><td>&#63743;</td><td>Apple</td></tr>
 </table>
