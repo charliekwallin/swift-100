@@ -7,6 +7,12 @@ categories: swiftui
 
 I will update this post as I come across shortcuts I just can't live without.
 
+## Xcode Keyboard Shortcuts
+
+This is a good place to start. [Xcode Keyboard Shortcuts]( https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf)
+
+I will add others that I use as they come up. 
+
 ## Mac Keyboard Characters
 
 Before digging into the shortcuts for Swift, here is a list of the Mac OS functional keys
@@ -20,3 +26,4 @@ Before digging into the shortcuts for Swift, here is a list of the Mac OS functi
     <tr><td>&amp;#8679;</td><td>&#8679;</td><td>Shift</td></tr>
     <tr><td>&amp;#8617;</td><td>&#8617;</td><td>Return</td></tr>
 </table>
+
