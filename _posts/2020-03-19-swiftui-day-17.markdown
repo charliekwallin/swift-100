@@ -13,7 +13,7 @@ Before digging into the shortcuts for Swift, here is a list of the Mac OS functi
 
 <table border="1">
 <tr><th>Entity</th><th>Glyph</th><th>Name</th></tr>
-<tr><td><pre>&#63743;</pre></td><td>&#63743;</td><td>Apple</td></tr>
+<tr><td>`&#63743;`</pre></td><td>&#63743;</td><td>Apple</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td></tr>
