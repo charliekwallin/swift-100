@@ -60,6 +60,10 @@ numbers.removeAll()
 var flavors = ["Chocolate", "Vanilla", "Strawberry", "Pistachio", "Rocky Road"]
 ```
 
+### Using the contains method
+
+> The contains method is part of the Foundation framework that you read about in the “Types” playground. If you try using it and get an error saying “Value of type 'String' has no member 'contains',” follow the instructions from that playground to import the framework into your project.
+
 ### Passing an array of bools to a function
 
 This is my answer to one of the exercises in the _Intro_ book. 
