@@ -100,6 +100,37 @@ printResults(forIssue: "Should we change the mascot?", votes: shouldMascotChange
 ```
 
 
+### Map
+
+This section is from _Intro Teachers Ed_
+
+They just introduce these topics with a note that they will be covered later. Just for an example, here is the code from the _Intro_ book. I'm excited to learn about `structs` in the next chapter so I'm pasting in their definitions and moving on
+
+>“Map. The map function creates a new array from the results of performing an action on every item in the starting array.
+”
+
+```swift
+let firstNames = ["Johnny", "Nellie", "Aaron", "Rachel"]
+
+// Creates a new array of full names by adding "Smith" to each first name​ 
+
+let fullNames = firstNames.map { (name) -> String in ​     return name + "Smith"​ 
+
+// Shortcut
+
+let fullNames = firstNames.map({ $0 + "Smith" })
+```
+
+### Filter
+
+>“The filter function creates a new array with only the objects from the starting array that match a specific use case. Filter takes a closure parameter that returns true or false to determine if the object should be included in the new array.
+”
+
+### Reduce
+
+>“The reduce function combines all of the values in an array into one value. Reduce takes a starting value and a closure that dictates how to combine each item.”
+
+Excerpt From: Apple Education. “Intro to App Development with Swift Teacher Guide.” Apple Inc. - Education, 2019. Apple Books. https://books.apple.com/us/book/intro-to-app-development-with-swift-teacher-guide/id1118577558
 
 
 
