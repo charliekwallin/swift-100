@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 18: Finishing chapter 14 arrays using map, filter and reduce "
-date:   2020-01-01 07:00:00 -0500
+date:   2020-03-21 07:00:00 -0500
 categories: swiftui
 ---
 
