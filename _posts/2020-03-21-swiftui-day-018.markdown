@@ -17,6 +17,4 @@ Excerpt From: Apple Education. “Intro to App Development with Swift Teacher Gu
 “let firstNames = ["Johnny", "Nellie", "Aaron", "Rachel"]
 ”
 
-Excerpt From: Apple Education. “Intro to App Development with Swift Teacher Guide.” Apple Inc. - Education, 2019. Apple Books. https://books.apple.com/us/book/intro-to-app-development-with-swift-teacher-guide/id1118577558
-
 
