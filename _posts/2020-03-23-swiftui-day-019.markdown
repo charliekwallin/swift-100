@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 19: Post to the Hacking with Swift Forum import Foundation"
+date:   2020-03-23 14:00:00 -0500
+categories: swiftui
+---
+
+I ran into what seemed like a simple problem. Use the `capitalized` method on a `String`. I kept receiving the error message "Value of type String has no method". Sure, I should have dug in a little more to find the answer, instead I decided to post to the [Hacking with Swift Forum](https://www.hackingwithswift.com/forums/swift/capitalized-example-generates-an-error/170).  In short, I needed to use the line `import Foundation`. It's a simple enough fix but it begs the question, why do some String methods use `NSString` class while others can just use `String`? Ultimately I need to read more about the `Foundation` class (or at least  think that is where this is leading).
