@@ -29,5 +29,42 @@ rectangle.isBiggerThan(otherRectangle)
 otherRectangle.isBiggerThan(rectangle)
 
 ```
-This example is bugs me, but it will have to do until I come up with one on my own. 
+## Another example 
+
+```swift
+struct Concertina {
+    let manufacturer: String
+    let keyboardSystem: String
+    let buttons: Int
+    let costAsDouble: Double
+    let isOnLoan: Bool
+    
+}
+
+// Create an array of concertinas
+var concertinas: [Concertina] = []
+
+concertinas.append(Concertina(manufacturer: "Thomas", keyboardSystem: "Wheatstone", buttons: 30, costAsDouble: 5500.00, isOnLoan: false));
+concertinas.append(Concertina(manufacturer: "Edgley", keyboardSystem: "Wheatstone", buttons: 30, costAsDouble: 2200.50, isOnLoan: true))
+
+for concertina in concertinas {
+    print("Concertina manufacturers: " + concertina.manufacturer)
+}
+
+/*
+ Concertina manufacturer: Thomas
+ Concertina manufacturer: Edgley
+*/
+
+// This way creates a new instance of the Concertina struct
+let newConcertina = ("Thomas", "Wheatstone",30, 5500.00, false)
+print(newConcertina)
+// ("Thomas", "Wheatstone", 30, 5500.0, false)
+
+let oldConcertina = ("Edgely", "Wheatstone", 30, 2200.50, true)
+print(newConcertina.3)
+// 5500.0
+
+
+```
 
