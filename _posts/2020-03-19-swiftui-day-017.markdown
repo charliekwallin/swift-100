@@ -11,6 +11,8 @@ I will update this post as I come across shortcuts I just can't live without.
 
 This is a good place to start. [Xcode Keyboard Shortcuts]( https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf)
 
+### Keyboard shortcuts that I use frequently
+
 <table border="1">
 <tr><th>Keys</th><th>What is does</th></tr>
 <tr><td>&#8963; A</td><td>Moves the cursor to the beginning of the line</td></tr>
