@@ -13,6 +13,8 @@ This is a good place to start. [Xcode Keyboard Shortcuts]( https://swifteducatio
 
 <table border="1">
 <tr><th>Keys</th><th>What is does</th></tr>
+<tr><td>&#8963; A</td><td>Moves the cursor to the beginning of the line</td></tr>
+<tr><td>&#8963; K</td><td>Deletes the line from the current position</td></tr>
 <tr><td>&#8997; &#8984; [ </td><td>Moves the selected text up</td></tr>
 <tr><td>&#8997; &#8984; ]</td><td>Moves the selected text down</td></tr>
 </table>
