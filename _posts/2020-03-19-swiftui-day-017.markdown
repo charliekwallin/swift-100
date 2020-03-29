@@ -20,13 +20,11 @@ This is a good place to start. [Xcode Keyboard Shortcuts]( https://swifteducatio
 <tr><td>&#8679; &#8984; L</td><td>Show library</td></tr>
 <tr><td>&#8997; &#8984; [ </td><td>Moves the selected text up</td></tr>
 <tr><td>&#8997; &#8984; ]</td><td>Moves the selected text down</td></tr>
-<tr><td>&#8984; &#8963; &#8679;</td><td>Emoji</td></tr>
+<tr><td>&#8963; &#8984;  &#9250;</td><td>Emoji</td></tr>
 
 </table>
 
-## Mac Keyboard Characters
-
-Before digging into the shortcuts for Swift, here is a list of the Mac OS functional keys
+## Mac keyboard characters and entities
 
 <table border="1">
     <tr><th>Entity</th><th>Glyph</th><th>Name</th></tr>
@@ -35,6 +33,7 @@ Before digging into the shortcuts for Swift, here is a list of the Mac OS functi
     <tr><td>&amp;#8963;</td><td>&#8963;</td><td>Control</td></tr>
     <tr><td>&amp;#8997;</td><td>&#8997;</td><td>Option</td></tr>
     <tr><td>&amp;#8679;</td><td>&#8679;</td><td>Shift</td></tr>
+    <tr><td>&amp;#9250;</td><td>&#9250;</td><td>Space</td></tr>
     <tr><td>&amp;#8617;</td><td>&#8617;</td><td>Return</td></tr>
 </table>
 
