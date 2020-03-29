@@ -20,7 +20,7 @@ This is a good place to start. [Xcode Keyboard Shortcuts]( https://swifteducatio
 <tr><td>&#8679; &#8984; L</td><td>Show library</td></tr>
 <tr><td>&#8997; &#8984; [ </td><td>Moves the selected text up</td></tr>
 <tr><td>&#8997; &#8984; ]</td><td>Moves the selected text down</td></tr>
-<tr><td>&#8963; &#8984;  &#9250;</td><td>Emoji</td></tr>
+<tr><td>&#8963; &#8984;  Spacebar</td><td>Emoji</td></tr>
 
 </table>
 
