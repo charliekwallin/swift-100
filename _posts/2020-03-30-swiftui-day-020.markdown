@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 20: Chapter 16 Chatbot 2 and Deployment Problems "
-date:   2020-01-01 07:00:00 -0500
+date:   2020-03-30 07:00:00 -0500
 categories: swiftui
 ---
 Overall this was a fun chapter. We built upon the existing chatbot program. We explored MVC and added some basic code to make the program work better such as adding an array to keep track of the questions and answers to the chatbot. We also added a computed property (which I'm still getting use to)
