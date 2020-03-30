@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Day 20: Chapter 16 Chatbot 2 and Deployment Problems "
+date:   2020-01-01 07:00:00 -0500
+categories: swiftui
+---
+Overall this was a fun chapter. We built upon the existing chatbot program. We explored MVC and added some basic code to make the program work better such as adding an array to keep track of the questions and answers to the chatbot. We also added a computed property (which I'm still getting use to)
+
+```swift
+“var messageCount: Int {​    return messages.count​ }
+```
+## Deploy to the iPhone
+
+Oh, how I wish this went smoothly. Alas, I'm still trying to get this to work. I followed this nice tutorial from [Code with Chris](https://codewithchris.com/deploy-your-app-on-an-iphone/). It seemed easy enough but I'm stuck with the following error when I try to deploy to the iPhone
+
+```sh
+Xcode Error: “The app ID cannot be registered to your development team.”
+```
+
+I've been through some StackOverflow answers but I'm coming up short. For now, it is time to take a break and move on to the next topic. I'll eventually figure this out and update the blog at that time.
