@@ -10,7 +10,7 @@ Technically all of the chapters in the book are called "lessons". I'm probably t
 
 ## ColorMix project
 
-Since the book is outdated, i'm including this image as a reference for students in CSC 118. One of the differences is that in the book you select a Device.
+Since the book is outdated, I'm including this image as a reference for students in CSC 118. One of the differences is that in the book you select a Device.
 
-![color-mix-project-setup.png](../images/color-mix-project-setup.png "ColorMix Setup")
+![color-mix-project-setup.png](images/color-mix-project-setup.png "ColorMix Setup")
 
