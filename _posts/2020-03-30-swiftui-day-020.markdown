@@ -7,7 +7,7 @@ categories: swiftui
 Overall this was a fun chapter. We built upon the existing chatbot program. We explored MVC and added some basic code to make the program work better such as adding an array to keep track of the questions and answers to the chatbot. We also added a computed property (which I'm still getting use to)
 
 ```swift
-“var messageCount: Int {​    return messages.count​ }
+var messageCount: Int {​    return messages.count​ }
 ```
 ## Deploy to the iPhone
 
