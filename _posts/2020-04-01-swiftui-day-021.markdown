@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day X: Lesson 17 Actions and Outlets"
+date:   2020-04-01 07:00:00 -0500
+categories: swiftui
+---
+Technically all of the chapters in the book are called "lessons". I'm probably too lazy to go back and edit 20 files. From here till the end of the book, I'll refer to them as lessons.
+
+
+
+## ColorMix project
+
+Since the book is outdated, i'm including this image as a reference for students in CSC 118. One of the differences is that in the book you select a Device.
+
+![color-mix-project-setup.png](../images/color-mix-project-setup.png "ColorMix Setup")
+
