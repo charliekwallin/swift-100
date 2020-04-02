@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 21: Lesson 17 Actions and Outlets"
+title:  "Day 21: Lesson 17 Actions and Outlets - TBC"
 date:   2020-04-01 07:00:00 -0500
 categories: swiftui
 ---
@@ -16,9 +16,6 @@ Ugh... maybe the constant drip of Covid-19 has scrambled my brain. Today was a m
 
 ![color-mix-project-setup.png](images/color-mix-project-setup.png "ColorMix Setup")
 
-### Many views
-
-There are a lot of view objects to pick from, **View** no longer exists so I went with **Image View**
 
 ## To be continued
 

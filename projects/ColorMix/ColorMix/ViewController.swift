@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ColorMix
 //
-//  Created by Charles Wallin on 4/1/20.
+//  Created by Charles Wallin on 4/2/20.
 //  Copyright © 2020 Charles Wallin. All rights reserved.
 //
 
@@ -12,9 +12,18 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        colorView.backgroundColor = .black
     }
+    
+    @IBOutlet weak var colorView: UIView!
+    
 
-
+    @IBAction func switchChanged(_ sender: UISwitch) {
+        if sender.isOn {
+            colorView.backgroundColor = .red
+        } else {
+            colorView.backgroundColor = .black
+        }
+    }
 }
 
