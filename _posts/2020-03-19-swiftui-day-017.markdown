@@ -18,6 +18,7 @@ This is a good place to start. [Xcode Keyboard Shortcuts]( https://swifteducatio
 <tr><td>&#8963; A</td><td>Moves the cursor to the beginning of the line</td></tr>
 <tr><td>&#8963; K</td><td>Deletes the line from the current position</td></tr>
 <tr><td>&#8679; &#8984; L</td><td>Show library</td></tr>
+<tr><td>&#8997; Click</td><td>Show the Object Library</td></tr>
 <tr><td>&#8997; &#8984; [ </td><td>Moves the selected text up</td></tr>
 <tr><td>&#8997; &#8984; ]</td><td>Moves the selected text down</td></tr>
 <tr><td>&#8984; &#8617;<td>Show Standard Editor</td></tr>
@@ -36,6 +37,6 @@ This is a good place to start. [Xcode Keyboard Shortcuts]( https://swifteducatio
     <tr><td>&amp;#8997;</td><td>&#8997;</td><td>Option</td></tr>
     <tr><td>&amp;#8679;</td><td>&#8679;</td><td>Shift</td></tr>
     <tr><td>&amp;#9250;</td><td>&#9250;</td><td>Space</td></tr>
-    <tr><td>&amp;#8617;</td><td>&#8617;</td><td>Return</td></tr>
+    <tr><td>&amp;#8629; &amp;crarr;</td><td>&#8629; &crarr;</td><td>Return</td></tr>
 </table>
 
