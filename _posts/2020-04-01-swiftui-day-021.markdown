@@ -14,7 +14,9 @@ This looks like a fun project and I'm about half way through it. One problem is 
 1. [Lesson 17 Part 1](https://www.youtube.com/watch?v=7uHEymiXpuw&list=PLXiaMWHbNgp2oJe2WhwmWSoRYvy75Z2Da&index=27)
 2. [Lesson 17 Part 2](https://www.youtube.com/watch?v=xceOqmx7QmE&list=PLXiaMWHbNgp2oJe2WhwmWSoRYvy75Z2Da&index=28)
 
-### Posting repo
+### Posting the repo
 
-Once finished, I will post the project in GitHub with this blog.
+[ColorMix Repo](https://github.com/charliekwallin/swift-100/tree/gh-pages)
+
+
 
