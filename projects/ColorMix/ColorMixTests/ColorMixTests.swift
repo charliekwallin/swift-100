@@ -2,7 +2,7 @@
 //  ColorMixTests.swift
 //  ColorMixTests
 //
-//  Created by Charles Wallin on 4/2/20.
+//  Created by Charles Wallin on 4/3/20.
 //  Copyright © 2020 Charles Wallin. All rights reserved.
 //
 

@@ -1,27 +1,18 @@
 ---
 layout: post
-title:  "Day 21: Lesson 17 Actions and Outlets - TBC"
+title:  "Day 21: Lesson 17 Actions and Outlets"
 date:   2020-04-01 07:00:00 -0500
 categories: swiftui
 ---
-Technically all of the chapters in the book are called "lessons". I'm probably too lazy to go back and edit 20 files. From here till the end of the book, I'll refer to them as lessons.
-
-
 
 ## ColorMix project
 
-Since the book is outdated, I'm including this image as a reference for students in CSC 118. One of the differences is that in the book you select a Device.
+This looks like a fun project and I'm about half way through it. One problem is the content in the Lesson. It is crap (sorry, Apple). The good news is that I found an excellent set of screencasts by [iBrent](https://www.youtube.com/channel/UCAkGwLiEYrTGCGLVS4_wVdg) that saved me a boatload of time. 
 
-Ugh... maybe the constant drip of Covid-19 has scrambled my brain. Today was a mess. Even my link in markdown isn't working <sigh>. I hope that I am the only one who sees these notes.
+### Screencasts for this Lesson
 
-![color-mix-project-setup.png](images/color-mix-project-setup.png "ColorMix Setup")
-
-
-## To be continued
-
-I spent too much time today figuring out the interface. I'm starting to get the hang of it but I need to review the lesson. 
-
-Day 22 will be the same lesson except that I will have it finished. This was good for me to go through and there are some bumps that students will need to know about.
+1. [Lesson 17 Part 1](https://www.youtube.com/watch?v=7uHEymiXpuw&list=PLXiaMWHbNgp2oJe2WhwmWSoRYvy75Z2Da&index=27)
+2. [Lesson 17 Part 2](https://www.youtube.com/watch?v=xceOqmx7QmE&list=PLXiaMWHbNgp2oJe2WhwmWSoRYvy75Z2Da&index=28)
 
 ### Posting repo
 
