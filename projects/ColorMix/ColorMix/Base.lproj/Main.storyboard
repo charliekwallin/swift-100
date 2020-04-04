@@ -21,21 +21,21 @@
                                 <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                             </view>
                             <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="tsl-39-bDU">
-                                <rect key="frame" x="162" y="248" width="49" height="31"/>
+                                <rect key="frame" x="20" y="233" width="49" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <connections>
                                     <action selector="switchChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="b07-F2-wqY"/>
                                 </connections>
                             </switch>
                             <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="gRm-Pq-gF1">
-                                <rect key="frame" x="162" y="287" width="49" height="31"/>
+                                <rect key="frame" x="20" y="272" width="49" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <connections>
                                     <action selector="switchChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="Jxy-qt-bsZ"/>
                                 </connections>
                             </switch>
                             <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="xTy-2G-yXe">
-                                <rect key="frame" x="162" y="326" width="49" height="31"/>
+                                <rect key="frame" x="20" y="338" width="49" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <connections>
                                     <action selector="switchChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="H1o-TJ-c51"/>
@@ -54,7 +54,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="472" y="113"/>
+            <point key="canvasLocation" x="674" y="-19"/>
         </scene>
     </scenes>
 </document>
