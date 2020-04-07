@@ -7,6 +7,17 @@ categories: swiftui
 
 ## Simple Center
 
+In this app we are to learn about working with user interfaces.
+
+### Auto Layout
+
+Need to select Main.storyboard for the View As: button to show. It's at the bottom. This allows you to pick the 4s.
+
+Without Auto Layout, the Label I added always stays at the same coordinates whenever I change devices. Auto Layout to the rescue.
+
+This is pretty nice.
+
+
 
 
 
