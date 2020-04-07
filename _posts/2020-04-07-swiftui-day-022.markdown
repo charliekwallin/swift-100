@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 22: Lesson Adaptive User Interfaces
+date:   2020-04-07 07:00:00 -0500
+categories: swiftui
+---
+
+## Simple Center
+
+
+
+
