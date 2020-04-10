@@ -17,6 +17,15 @@ Without Auto Layout, the Label I added always stays at the same coordinates when
 
 This is pretty nice.
 
+### Stack Layout
+
+Having some problems with this due to the new layout in Xcode 11 and the fact that I am becoming impatient with this book. Time to checkout out
+
+1. [chapter 18.1](https://www.youtube.com/watch?v=1r79hNO_X3Q) 
+2. [chapter 18.2](https://www.youtube.com/watch?v=-Bi4reY9uoU)
+3. [chapter 18.3](https://www.youtube.com/watch?v=xsv60k68bnM)
+
+
 
 
 
