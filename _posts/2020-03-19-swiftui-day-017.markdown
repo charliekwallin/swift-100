@@ -25,7 +25,6 @@ This is a good place to start. [Xcode Keyboard Shortcuts]( https://swifteducatio
 <tr><td>&#8963; &#8997; &#8984; &#8629;</td><td>Show assistant editor</td></tr>
 <tr><td>&#8963; &#8984;  Spacebar</td><td>Emoji</td></tr>
 <tr><td>&#8984; =</td><td>Auto adjust selected text in a label</td></tr>
-
 </table>
 
 ## Mac keyboard characters and entities
