@@ -13,7 +13,7 @@ This is a good place to start. [Xcode Keyboard Shortcuts]( https://swifteducatio
 
 ### Keyboard shortcuts that I use frequently
 
-<table border="1">
+<table>
 <tr><th>Keys</th><th>What is does</th></tr>
 <tr><td>&#8963; A</td><td>Moves the cursor to the beginning of the line</td></tr>
 <tr><td>&#8963; K</td><td>Deletes the line from the current position</td></tr>
@@ -26,7 +26,9 @@ This is a good place to start. [Xcode Keyboard Shortcuts]( https://swifteducatio
 <tr><td>&#8963; &#8984;  Spacebar</td><td>Emoji</td></tr>
 <tr><td>&#8984; =</td><td>Auto adjust selected text in a label</td></tr></table>
 
+
 ## Mac keyboard characters and entities
+
 
 <table border="1">
     <tr><th>Entity</th><th>Glyph</th><th>Name</th></tr>
