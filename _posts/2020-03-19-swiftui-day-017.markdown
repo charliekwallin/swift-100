@@ -21,9 +21,10 @@ This is a good place to start. [Xcode Keyboard Shortcuts]( https://swifteducatio
 <tr><td>&#8997; Click</td><td>Show the Object Library</td></tr>
 <tr><td>&#8997; &#8984; [ </td><td>Moves the selected text up</td></tr>
 <tr><td>&#8997; &#8984; ]</td><td>Moves the selected text down</td></tr>
-<tr><td>&#8984; &#8617;<td>Show Standard Editor</td></tr>
-<tr><td>&#8997; &#8984; &#8617;</td><td>Show assistant editor</td></tr>
+<tr><td>&#8984; &#8629;<td>Show Standard Editor</td></tr>
+<tr><td>&#8963; &#8997; &#8984; &#8629;</td><td>Show assistant editor</td></tr>
 <tr><td>&#8963; &#8984;  Spacebar</td><td>Emoji</td></tr>
+<tr><td>&#8984; =</td><td>Auto adjust selected text in a label</td></tr>
 
 </table>
 
@@ -37,6 +38,6 @@ This is a good place to start. [Xcode Keyboard Shortcuts]( https://swifteducatio
     <tr><td>&amp;#8997;</td><td>&#8997;</td><td>Option</td></tr>
     <tr><td>&amp;#8679;</td><td>&#8679;</td><td>Shift</td></tr>
     <tr><td>&amp;#9250;</td><td>&#9250;</td><td>Space</td></tr>
-    <tr><td>&amp;#8629; &amp;crarr;</td><td>&#8629; &crarr;</td><td>Return</td></tr>
+    <tr><td>&amp;#8629;</td><td>&#8629;</td><td>Return</td></tr>
 </table>
 
