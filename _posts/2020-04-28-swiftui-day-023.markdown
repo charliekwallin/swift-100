@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Day 23: Enumerators and Switch"
+date:   2020-04-28 07:00:00 -0500
+categories: swiftui
+---
+
+## Enumerators
+
+## iBrent videos
+
+Although he sometimes bumbles through his videos and should strongly consider some editing, I am grateful to him for picking up and finishing where Apple dropped the ball. 
+
+[Lesson 1](https://www.youtube.com/watch?v=fLuM9HyoWbU)
+[Lesson 2](https://www.youtube.com/watch?v=i5RmaAOl-fc)
+
+More to come but I'm pushing this anyway.
+
+
+
+
+
+
+
+
