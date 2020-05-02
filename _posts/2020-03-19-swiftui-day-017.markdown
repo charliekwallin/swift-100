@@ -11,6 +11,10 @@ I will update this post as I come across shortcuts I just can't live without.
 
 This is a good place to start. [Xcode Keyboard Shortcuts]( https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf)
 
+### 37 Xcode Tips
+
+[Great site for Xcode shortcuts](https://medium.com/snowdog-labs/37-xcode-tips-and-tricks-c8427784ba48) 
+
 ### Keyboard shortcuts that I use frequently
 
 <table>
