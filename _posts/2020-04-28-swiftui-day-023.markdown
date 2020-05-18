@@ -10,7 +10,7 @@ categories: swiftui
 >In Swift, you can use an enumeration to represent a group of related choices. Each choice is called a case.
 
 ```swift
-enum tuneChoice {
+enum TuneChoice {
     case reel
     case jig
     case hornpipe
@@ -31,6 +31,29 @@ Variables can use type annotation as follows
 let firstSet: tuneChoice
 
 firstSet = .hornpipe
+```
+
+## Adding a property
+
+The property is coding within the enum. 
+
+```swift
+enum Sign {
+    case rock, paper, scissors
+
+// create a property
+
+var emoji: String {
+    switch self {
+    case .rock:
+        return "👊🏽"
+    case .paper:
+        return "🤚🏽"
+    case .scissors:
+        return "✌🏽"
+        }
+    }
+}
 ```
 
 

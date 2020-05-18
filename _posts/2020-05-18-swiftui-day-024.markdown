@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Day 24: Rock, Paper, Scissors"
+date:   2020-05-18 07:00:00 -0500
+categories: swiftui
+---
+
+## Background
+
+The book starts off pretty good, but quickly leaves me hanging, so I had to head out to good ol' iBrent for some additional instruction. Even though I am new to Swift, I'm questioning some of his coding choices, but they work and it will get me through this. Should I feel the need, I can always refactor later.
+
+What makes this lesson difficult is that, we have covered most, but not all of the content and unless you are working on this constantly (I should be) then you will need to head out to Brent's videos to get you through. Otherwise, it will be a long, but doable, slog.
+
+## iBrent Lesson 20
+
+### RPS
+
+* [Lesson 20, Part 1](https://www.youtube.com/watch?v=JsBG0rZfBaw)
+* [Lesson 20, Part 2](https://www.youtube.com/watch?v=GoTa8bPgNZY)
+
+
+
+
+
