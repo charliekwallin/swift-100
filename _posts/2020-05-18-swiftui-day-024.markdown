@@ -15,6 +15,8 @@ What makes this lesson difficult is that, we have covered most, but not all of t
 
 ### RPS
 
+* [GitHub repo](https://github.com/ibr3nt)
+
 * [Lesson 20, Part 1](https://www.youtube.com/watch?v=JsBG0rZfBaw)
 * [Lesson 20, Part 2](https://www.youtube.com/watch?v=GoTa8bPgNZY)
 
